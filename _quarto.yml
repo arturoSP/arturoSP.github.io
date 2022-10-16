@@ -1,0 +1,31 @@
+project:
+  type: website
+  resources:
+    - keybase.txt
+    - resume.pdf
+    - cv.pdf
+
+website:
+  title: "arturo sánchez-porras"
+  site-url: https://arturosp.github.io
+  description: "Technology and the Environment"
+  open-graph:
+    locale: en_US
+  twitter-card:
+    creator: "@arku"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.html
+      - text: "Projects"
+        href: projects
+      - text: "Publications"
+        href: publications
+      - text: "Blog"
+        href: blog.html
+  page-footer:
+    background: dark
+    left: "© Copyright 2022, arturo sánchez-porras."
+format:
+  html:
+    theme: [yeti]
