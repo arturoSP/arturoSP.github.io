@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Cool things I’ve worked on",
+    "section": "",
+    "text": "imanr: Identificador de Maíces Nativos en R\nMachine learning model to help on the classification of native corn at racial complex level.\nPublished as a CRAN package since June 2024.\n\n\n\nBiological Condition Gradient for Puerto Rico and U.S. Virgin Islands Coral Reefs\nCollection of web apps to evaluate the BCG level for coral reefs depending on the observed biodiversity of corals and/or fish.\nBenthic / Fish / Formatter\n\n\n\necocbo: Cost-Benefit Optimization for Ecological Surveys\nCRAN package developed to aid in the planning of ecological surveys by proposing the optimal sample effort. Calculations are made from simulations based on pilot studies.\nPublished in August 2023.\n\n\n\nMaíces Nativos en México y en la Región Otomí Tepehua\nWeb apps developed to showcase the diversity and importance of native corn.\nMaíces Nativos en México was developed as an educational app that shows the results of the Proyecto Global de Maíces of CONABIO in an orderly, easy to understand manner, to help people see and learn about how corn is as diverse as it is vital for Mexican culture and food.\nMaíces Nativos en la Región Otomí-Tepehua was made to showcase the results of a similar survey made in the Otomí-Tepehua region, as part of the postdoctoral proyect of Dra. Aline Romero-Natale to explore the corn diversity in the region.\n\n\n\nSalud Ambiental en la Cuenca del Alto Atoyac\nBook series that address the critical health situation of people living around the Atoyac, one of the most polluted rivers in Mexico.\nThis book is the result of a two-year program funded by CONAHCYT to make research in health issues, based on data science. My participation involved obtaining, managing, summarising and analysing large volumes of data in order to gain insights of the effects of pollution to people’s health."
+  },
+  {
+    "objectID": "projects.html#section",
+    "href": "projects.html#section",
+    "title": "Cool things I have done",
+    "section": "",
+    "text": "Biological Condition Gradient for Puerto Rico and U.S. Virgin Islands Coral Reefs\nCollection of web apps to evaluate the BCG level for coral reefs depending on the observed biodiversity of corals and/or fish.\nBenthic / Fish / Formatter\n\necocbo: Cost-Benefit Optimization for Ecological Surveys \nCRAN package developed to aid in the planning of ecological surveys by proposing the optimal sample effort. Calculations are made from simulations based on pilot studies.\nPublished in August 2023.\n\n | Maíces Nativos en México y Maíces Nativos en la Región Otomí-Tepehua\nWeb apps developed to showcase the diversity and importance of native corn.\nThe firts proyect was developed as an educational app that shows the results of the Proyecto Global de Maíces of CONABIO in an orderly, easy to understand manner, to help people see and learn about how corn is as diverse as it is vital for Mexican culture and food.\nThe second app was made to showcase the results of a similar survey made in the Otomí-Tepehua region, as part of the postdoctoral proyect of Dra. Aline Romero-Natale to explore the corn diversity in the region.\n\n\n\nimanr: Identificador de Maíces Nativos en R |  | Model to help on the classification of native corn at racial complex level. | | Published as a CRAN package since June 2024. |\n\n\n\n\n\n\n | Biological Condition Gradient for Puerto Rico and U.S. Virgin Islands Coral Reefs  Collection of web apps to evaluate the BCG level for coral reefs depending on the observed biodiversity of corals and/or fish.  Benthic / Fish / Formatter\n\n\n\n\n\n\necocbo: Cost-Benefit Optimization for Ecological Surveys\nCRAN package developed to aid in the planning of ecological surveys by proposing the optimal sample effort. Calculations are made from simulations based on pilot studies.\nPublished in August 2023.\n\n\n\n\n\n\n\n\n\n\n\n| |\n\n\n\n\n\n\nSalud Ambiental en la Cuenca del Alto Atoyac\nBook series that address the critical health situation of people living around the Atoyac, one of the most polluted rivers in Mexico.\nThis book is the result of a two-year program funded by CONAHCYT to make research in health issues, based on data science. My participation involved obtaining, managing, summarising and analysing large volumes of data in order to gain insights of the effects of pollution to people’s health."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "arturo sánchez-porras",
+    "section": "",
+    "text": "* Data science based environmental research\nExperienced environmental sciences researcher and data scientist. I mainly work with R but also have experience with GIS software.\nWhen not coding on a project, I might be in a meeting. Otherwise, I enjoy playing videogames, reading science fiction and cycling in the city.\n\n\n\n\n\n\nCurrently working on\n\n\n\nI am working on the development of a protocol to help in the planning phase of ecological surveys by optimizing the sampling effort through calculations based on pilot studies.\nThis tool is being funded by a postdoctoral grant by CONAHCYT and hosted by the ENES Mérida."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
+    "objectID": "projects.html#imanr-identificador-de-maíces-nativos-en-r",
+    "href": "projects.html#imanr-identificador-de-maíces-nativos-en-r",
+    "title": "Cool things I’ve worked on",
+    "section": "",
+    "text": "imanr: Identificador de Maíces Nativos en R \nMachine learning model to help on the classification of native corn at racial complex level.\nPublished as a CRAN package since June 2024.\n\n\n Biological Condition Gradient for Puerto Rico and U.S. Virgin Islands Coral Reefs\nCollection of web apps to evaluate the BCG level for coral reefs depending on the observed biodiversity of corals and/or fish.\nBenthic / Fish / Formatter\n\necocbo: Cost-Benefit Optimization for Ecological Surveys \nCRAN package developed to aid in the planning of ecological surveys by proposing the optimal sample effort. Calculations are made from simulations based on pilot studies.\nPublished in August 2023.\n\n Maíces Nativos en México y Maíces Nativos en la Región Otomí-Tepehua\nWeb apps developed to showcase the diversity and importance of native corn.\nThe firts proyect was developed as an educational app that shows the results of the Proyecto Global de Maíces of CONABIO in an orderly, easy to understand manner, to help people see and learn about how corn is as diverse as it is vital for Mexican culture and food.\nThe second app was made to showcase the results of a similar survey made in the Otomí-Tepehua region, as part of the postdoctoral proyect of Dra. Aline Romero-Natale to explore the corn diversity in the region.\n\nSalud Ambiental en la Cuenca del Alto Atoyac \nBook series that address the critical health situation of people living around the Atoyac, one of the most polluted rivers in Mexico.\nThis book is the result of a two-year program funded by CONAHCYT to make research in health issues, based on data science. My participation involved obtaining, managing, summarising and analysing large volumes of data in order to gain insights of the effects of pollution to people’s health."
+  }
+]
