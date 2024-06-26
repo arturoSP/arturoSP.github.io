@@ -1,0 +1,8 @@
+---
+title: "Blog"
+editor: visual
+about: 
+  template: solana
+---
+
+![Coming soon!](www/gatorron.jpeg){.fixed-left}

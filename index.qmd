@@ -2,7 +2,7 @@
 title: "arturo sánchez-porras"
 image: www/profile.jpg
 about:
-  template: solana
+  template: trestles
   image-shape: rounded
   links:
     - icon: twitter
@@ -19,19 +19,17 @@ about:
       href: "mailto:sp.arturo@gmail.com"
 comments: false
 ---
-<!-- :::{.column-page} -->
 
-### \* Data science based research
+### \* Data science based environmental research
 
-Experienced environmental sciences researcher and (learning new things everyday) data scientist. I mainly work with R but also have experience with GIS software.
+Experienced environmental sciences researcher and data scientist. I mainly work with R but also have experience with GIS software.
 
-When not working on a project, I enjoy playing videogames, reading and cycling in the city.
+When not coding on a project, I might be in a meeting. Otherwise, I enjoy playing videogames, reading science fiction and cycling in the city.
 
 ::: callout-tip
-## currently working on
+## Currently working on
 
-Currently working on a CONACYT-funded project about the relation between pollution in the Atoyac Basin and its impacts on health
+I am working on the development of a protocol to help in the planning phase of ecological surveys by optimizing the sampling effort through calculations based on pilot studies. 
+
+This tool is being funded by a postdoctoral grant by CONAHCYT and hosted by the ENES Mérida. 
 :::
-
-
-<!-- ::: -->

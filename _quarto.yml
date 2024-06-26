@@ -1,16 +1,17 @@
 project:
   type: website
+  output-dir: docs
   resources:
     - keybase.txt
     - resume.pdf
     - cv.pdf
 
 website:
-  title: "arturo sánchez-porras"
+  title: "artu"
   site-url: https://arturosp.github.io
+  favicon: www/favicon/favicon.ico
   description: "Technology and the Environment"
-  open-graph:
-    locale: en_US
+  open-graph: true
   twitter-card:
     creator: "@arku"
   navbar:
@@ -18,14 +19,21 @@ website:
       - text: "Home"
         href: index.html
       - text: "Projects"
-        href: projects
+        href: projects.html
       - text: "Publications"
-        href: publications
+        href: publications.html
       - text: "Blog"
         href: blog.html
   page-footer:
     background: dark
-    left: "© Copyright 2022, arturo sánchez-porras."
+    left: "© Copyright 2024, arturo sánchez-porras."
+    right: 
+      - text: "This site was built with <3 and Quarto"
+  cookie-consent: 
+    type: express
+    style: headline
+    palette: light
 format:
   html:
     theme: [yeti]
+    css: styles.css

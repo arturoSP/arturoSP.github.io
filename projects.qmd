@@ -1,0 +1,48 @@
+---
+title: "Cool things I've worked on"
+editor: visual
+about: 
+  template: solana
+---
+
+[![](www/hex-imanr.png){.fixed-right}](https://cran.r-project.org/package=imanr)
+
+### [imanr](https://cran.r-project.org/package=imanr): Identificador de Maíces Nativos en R
+
+Machine learning model to help on the classification of native corn at racial complex level.
+
+Published as a CRAN package since June 2024.
+
+[![](www/hex-BCG_Formatter.png){.fixed-left}](https://ccri-uprm.shinyapps.io/BCG-Benthic/)
+
+### Biological Condition Gradient for Puerto Rico and U.S. Virgin Islands Coral Reefs
+
+Collection of web apps to evaluate the BCG level for coral reefs depending on the observed biodiversity of corals and/or fish. 
+
+[Benthic](https://ccri-uprm.shinyapps.io/BCG-Benthic/) / Fish / Formatter
+
+[![](www/hex-ecoCBO.png){.fixed-right}](https://cran.r-project.org/package=ecocbo)
+
+### [ecocbo](https://cran.r-project.org/package=ecocbo): Cost-Benefit Optimization for Ecological Surveys
+
+CRAN package developed to aid in the planning of ecological surveys by proposing the optimal sample effort. Calculations are made from simulations based on pilot studies.
+
+Published in August 2023.
+
+[![](www/hex-MaizNativo.png){.fixed-left}](https://arturosp.shinyapps.io/MaizNativo/)
+
+### Maíces Nativos en México y en la Región Otomí Tepehua
+
+Web apps developed to showcase the diversity and importance of native corn.
+
+[**Maíces Nativos en México**](https://arturosp.shinyapps.io/MaizNativo/) was developed as an educational app that shows the results of the [Proyecto Global de Maíces of CONABIO](https://www.biodiversidad.gob.mx/diversidad/proyectoMaices) in an orderly, easy to understand manner, to help people see and learn about how corn is as diverse as it is vital for Mexican culture and food. 
+
+[**Maíces Nativos en la Región Otomí-Tepehua**](https://alinerona2022.shinyapps.io/MaizOtomiTepehua/) was made to showcase the results of a similar survey made in the Otomí-Tepehua region, as part of the postdoctoral proyect of Dra. Aline Romero-Natale to explore the corn diversity in the region.
+
+[![](www/SaludCCA.png){.fixed-right}](https://repo.iberopuebla.mx/IIMA/saludAmbiental/)
+
+### Salud Ambiental en la Cuenca del Alto Atoyac
+
+Book series that address the critical health situation of people living around the Atoyac, one of the most polluted rivers in Mexico.
+
+This book is the result of a two-year program funded by CONAHCYT to make research in health issues, based on data science. My participation involved obtaining, managing, summarising and analysing large volumes of data in order to gain insights of the effects of pollution to people's health. 

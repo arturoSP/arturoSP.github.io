@@ -1,0 +1,52 @@
+---
+title: "Publications"
+editor: visual
+about: 
+  template: solana
+---
+
+### Articles
+
+- [Campesinado y transmisión de saberes sobre usos de plaguicidas de generación en generación en los grupos familiares de San Simón Atzitzintla](https://doi.org/10.32399/icuap.rdic.2448-5829.2022.23.811)
+
+  - Romero-Natale, A., Sánchez-Porras, A., Espinosa-Márquez, A., & Torres, E. (2022). Campesinado y transmisión de saberes sobre usos de plaguicidas de generación en generación en los grupos familiares de San Simón Atzitzintla. RD-ICUAP, 8(23), 101-114. https://doi.org/10.32399/icuap.rdic.2448-5829.2022.23.811
+
+  - Keywords: glifosato; plaguicidas; entrevistas a profundidad; saberes; vida campesina
+
+- [Evaluation of the Potential Change to the Ecosystem Service Provision Due to Industrialization](https://doi.org/10.3390/su10093355)
+
+  - Sanchez-Porras A, Tenorio-Arvide MG, Peña-Moreno RD, Sampedro-Rosas ML, Silva-Gómez SE. Evaluation of the Potential Change to the Ecosystem Service Provision Due to Industrialization. Sustainability. 2018; 10(9):3355. https://doi.org/10.3390/su10093355 
+
+  - Keywords: ecosystem services; industrial development; ecosystem services assessment; urbanization; ecosystem services matrix; land use change
+
+- [Los servicios ambientales ante un cambio de paradigma](https://www.academia.edu/30222843/Los_servicios_ambientales_ante_un_cambio_de_paradigma)
+
+  - Sánchez Porras, A., Silva Gómez, S., & Pérez Avilés, R. (2015). Los servicios ambientales ante un cambio de paradigma. Revista Latinoamericana el Ambiente y las Ciencias, 6(14), 35-45.
+
+  - Keywords: Ciencias ambientales; Epistemología; Pago por servicios ambientales; Servicios ecosistémicos 
+
+### Conferences
+
+- [Data science and public health: Case study of a Sanitary and Environmental Emergency  Region (RESA) in Mexico.](https://youtu.be/-HOp3G8begA?si=9re2WF4bJ3V0Q01y). Talk in the *2023 Annual NASA POWER Global Community (GloCo) Summit*.
+
+- Cálculo de potencia estadística para experimentos ecológicos en ecosistemas marinos vulnerables. Talk in the *Decimosexta Semana Internacional de la Estadística y Probabilidad*.
+
+- Evaluación mixta de servicios ecosistémicos (juntando dos mundos). Talk in the *1as Jornadas Nacionales de Educación e Investigación en Ciencias Ambientales*.
+
+- El Agua Como Servicio Ecosistémico Clave En El Desarrollo Regional. Talk in the *V Congreso Internacional de Servicios Ecosistémicos en los Neotrópicos*.
+
+- Implications of Industrialization to the Provision of Ecosystem Services. Talk in the *A community on Ecosystem Services 2016: Implementation Advances and Challenges*.
+
+- Presencia de servicios ecosistémicos en la región de San José Chiapa. Talk in the *XV Congreso Internacional y XXI Congreso Nacional de Ciencias Ambientales*.
+
+- Los Servicios Ambientales Ante Un Cambio De Paradigma. Talk in the *XIV Congreso Internacional Y XX Congreso Nacional De Ciencias Ambientales*.
+
+### Others 
+
+- Salud ambiental en la Cuenca del Alto Atoyac. Situación, peligros ambientales y acciones para reducir el riesgo de enfermedades crónicas no transmisibles (ECNT)
+
+  - [Book](https://repo.iberopuebla.mx/IIMA/saludAmbiental/)
+
+  - [Infographics](https://repositorio-salud.conacyt.mx/jspui/handle/1000/423)
+
+  - [Multimedia capsules](https://repositorio-salud.conacyt.mx/jspui/handle/1000/420)
