@@ -19,7 +19,7 @@ Published as a CRAN package since June 2024.
 
 Collection of web apps to evaluate the BCG level for coral reefs depending on the observed biodiversity of corals and/or fish. 
 
-[Benthic](https://ccri-uprm.shinyapps.io/BCG-Benthic/) / Fish / Formatter
+[Benthic](https://ccri-uprm.shinyapps.io/BCG_Benthic/) / [Fish](https://ccri-uprm.shinyapps.io/BCG-Fish/) / [Formatter](https://ccri-uprm.shinyapps.io/BCGFormatter/)
 
 [![](www/hex-ecoCBO.png){.fixed-right}](https://cran.r-project.org/package=ecocbo)
 
